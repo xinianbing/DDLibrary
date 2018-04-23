@@ -3,16 +3,16 @@
   "version": "0.1.0",
   "summary": "A short description of DDLibrary.",
   "description": "DingDa frameworks",
-  "homepage": "https://github.com/ice/DDLibrary",
+  "homepage": "https://github.com/xinianbing/DDLibrary",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "ice": "xinianice"
+    "xinianbing": "503260417@qq.com"
   },
   "source": {
-    "git": "https://github.com/ice/DDLibrary.git",
+    "git": "https://github.com/xinianbing/DDLibrary.git",
     "tag": "0.1.0"
   },
   "platforms": {
