@@ -1,0 +1,16 @@
+PODS:
+  - DDLibrary (0.1.0)
+
+DEPENDENCIES:
+  - DDLibrary (from `../`)
+
+EXTERNAL SOURCES:
+  DDLibrary:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DDLibrary: 2ded251cfa4f8101b37d55e165a041332fe74156
+
+PODFILE CHECKSUM: cca5693ac5da15d887e493d41fff40fe05fc2642
+
+COCOAPODS: 1.5.0
