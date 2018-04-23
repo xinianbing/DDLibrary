@@ -19,11 +19,11 @@ Pod::Spec.new do |s|
 
   s.description      = 'DingDa frameworks'
 
-  s.homepage         = 'https://github.com/ice/DDLibrary'
+  s.homepage         = 'https://github.com/xinianbing/DDLibrary'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'ice' => 'zjmvip@gmail.com' }
-  s.source           = { :git => 'https://github.com/ice/DDLibrary.git', :tag => s.version.to_s }
+  s.author           = { 'xinianbing' => '503260417@qq.com' }
+  s.source           = { :git => 'https://github.com/xinianbing/DDLibrary.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
